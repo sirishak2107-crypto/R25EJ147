@@ -8,3 +8,29 @@ My goal is to become a skilled software engineer.
 ## Projects
 
 I am working on projects in C programming, Python, and web development to improve my programming and software development skills.
+
+# R25EJ147
+
+## About
+This repository contains my programming activities, projects, and practical work completed as part of my B.Tech Computer Science and Engineering coursework.
+
+## Technologies
+- C
+- Python
+- Git
+- GitHub
+- VS Code
+
+## What I Learned
+- Programming and problem solving
+- Git and GitHub workflow
+- Project organization and documentation
+- Compiling and testing programs
+- Maintaining project files using version control
+
+## Repository Contents
+This repository contains the activities, source files, documentation, and project work completed during the course.
+
+## Author
+Sirisha K
+B.Tech Computer Science and Engineering
