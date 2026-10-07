@@ -1,0 +1,3 @@
+# Activity 2 — Extension Comparison
+
+Among the extensions I explored, Prettier changed my day-to-day editing the most because it automatically formats code and keeps the structure consistent. The Python and Java extensions are mainly used for language-specific coding support, while Prettier focuses on code formatting and GitLens focuses on code history and showing who made changes. I would keep Prettier and GitLens enabled for most projects, while I would use the Python or Java extensions depending on the programming language. Live Share made pair programming more interactive than normal screen sharing because both users could work in the same files and see each other's cursor and changes in real time.
