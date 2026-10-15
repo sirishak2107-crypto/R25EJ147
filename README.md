@@ -34,3 +34,10 @@ This repository contains the activities, source files, documentation, and projec
 ## Author
 Sirisha K
 B.Tech Computer Science and Engineering
+
+
+## Collaboration Log
+
+- **Partner:** Rashiireddy-oss (GitHub username: Rashiireddy-oss)
+- **What we built:** A greet() function in hello.c that prints a welcome message for a given name, called from main() with greet("Ada"), written together in a Live Share session.
+- **What I learned:** Live Share let us both edit the same file at once and see each other's cursor, which made pair programming feel much more interactive than screen sharing.
